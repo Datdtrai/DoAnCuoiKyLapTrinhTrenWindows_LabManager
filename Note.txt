@@ -1,0 +1,1 @@
+Trong dữ liệu hiện có thì mật khẩu của mỗi tài khoản trùng với tên đăng nhập.
